@@ -1,3 +1,22 @@
 pytesseract
 gtts
+pdf2image
+﻿Pillow==9.5.0
+Levenshtein==0.21.1
+lxml==4.9.2
+odfpy==1.4.1
+openpyxl==3.1.2
+packaging==23.1
+pandocfilters==1.5.0
+parsel==1.8.1
+parso==0.8.3
+pickleshare==0.7.5
+pyOpenSSL==23.1.1
+pyparsing==3.0.9
+sqlparse==0.4.4
+xlrd==2.0.1
+pytesseract
+gTTS
+pdf2image
+docx2txt
 
